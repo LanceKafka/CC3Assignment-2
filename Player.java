@@ -2,7 +2,7 @@
 
 public class Player {
 
-    private  String username = "LancerTzy";
+    private  String username = "LancerTzy_01";
 
     private Hero activeHero; // this class uses hero, but hero can exist independently :D
 
